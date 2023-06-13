@@ -1,1 +1,1 @@
-# Educational_website
+# Educational_website_project
